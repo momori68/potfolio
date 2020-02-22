@@ -97,7 +97,7 @@ section h2.section-heading {
 }
 
 section h3.section-subheading {
-  
+  padding:20px;
   background-color: rgba(0, 0, 0, 0.9);
   font-size: 16px;
   font-weight: 400;
@@ -218,7 +218,7 @@ img::-moz-selection {
 
 
 footer {
-  padding: 25px 0;
+  padding: 100px 0;
   text-align: center;
   background-image: url(../images/bg_footer.jpg);
   background-attachment: fixed;
