@@ -34,9 +34,7 @@ h6 {
   font-weight: 700;
   font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
-h3,{
-  color: #fed136 !important;
-}
+
 
 /*!
  * Start Bootstrap - Video Header (https://startbootstrap.com/snippets/video-header/)
@@ -99,7 +97,8 @@ section h2.section-heading {
 }
 
 section h3.section-subheading {
-
+  
+  background-color: rgba(0, 0, 0, 0.9);
   font-size: 16px;
   font-weight: 400;
   font-style: italic;
